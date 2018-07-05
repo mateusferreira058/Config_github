@@ -13,7 +13,8 @@ and open the template in the editor.
         <?php
         
         echo "Meu primeiro commit";
-//Alterado na web
+        //Alterado na web
+        //alterado no netbeans
         ?>
     </body>
 </html>
